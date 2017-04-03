@@ -1,4 +1,27 @@
 // GenieJS Test Suite
+// Add describe block with anonymous function
+// Add before and after blocks
+// Add anonymous function for each test
+// Add spyOn
+// Add feature testing via http
+// Add language to output
+// Breakdown stack trace by line
+// Matchers: toBe(===)
+// .not (invert)
+// .toEqual (for objects)
+// .toMatch (regex)
+//toBeDefined
+// toBeNull
+// toBeTruthy
+// toBeFalsey
+// toContain
+// toBeLessThan
+// toBeGreaterThan
+// toBeCloseTo
+// toThrow
+// toThrowError
+//x for describe and it blocks for pending
+
 
 (function(exports) {
     function Wish(name, subject) {
